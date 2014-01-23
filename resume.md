@@ -60,4 +60,11 @@
   用highcharts将数据展示出来。
   
 * **工具开发**
-* 
+  
+  为公司工程化提供各种工具的安装和维护，包括：Jira、Jenkins、Bugzilla、testlink、gitlab、reviewboard等。
+
+  为了支持公司发布流程，基于svn pre-commit hook，开发了svn权限管理系统。
+  
+  带领团队开发了公司内部的私有云管理系统，基于vmware exsi的接口、puppet和Jenkins，实现了从环境创建到申请、账户分配，到功能开发自动部署一条龙服务
+  
+  带领团队开发report portal，将各个系统的数据统一展示，并定期发送邮件给相关负责人
