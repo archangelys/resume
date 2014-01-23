@@ -1,6 +1,6 @@
 #个人简历
 ##个人信息
-![my photo](https://github.com/archangelys/resume/blob/master/resume.jpg "my photo" )
+![my photo](http://img1.ph.126.net/l0gTebe1sP-dJZCtBe3XWA==/3309582776264090287.jpg "my photo" )
 
 姓名：杨松
 
